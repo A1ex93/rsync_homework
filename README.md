@@ -23,5 +23,5 @@
 
 ![123](https://github.com/A1ex93/rsync_homework/blob/main/image/backup_script.png)
 ![123](https://github.com/A1ex93/rsync_homework/blob/main/image/crontab.png)
-![123](https://github.com/A1ex93/rsync_homework/blob/main/image/result_backup.log)
+![123](https://github.com/A1ex93/rsync_homework/blob/main/image/result_backup.png)
 ![123](https://github.com/A1ex93/rsync_homework/blob/main/image/result_log.png)
