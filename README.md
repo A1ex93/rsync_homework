@@ -25,7 +25,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![123]([ссылка на скриншот 1](https://github.com/A1ex93/rsync_homework/blob/main/image/1.png))
+![123](https://github.com/A1ex93/rsync_homework/blob/main/image/1.png)
 
 
 ---
